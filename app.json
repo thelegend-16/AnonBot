@@ -8,7 +8,7 @@
     "python",
     "pyrogram"
   ],
-  "repository": "https://github.com/MysteryBots/AnonBot",
+  "repository": "https://github.com/thelegend-16/AnonBot",
   "website": "https://telegram.dog/MysteryBots",
   "success_url": "www.mysteryxd.ml",
   "env": {
