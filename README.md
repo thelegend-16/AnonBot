@@ -1,6 +1,6 @@
-# Real repository of the bot [Click here](https://github.com/MysteryBots/AnonBot) thanks to him😇.
+## Real repository of the bot [Click here](https://github.com/MysteryBots/AnonBot) thanks to him😇.
 
-## Anonymous Sender Bot
+### Anonymous Sender Bot
 > A star ⭐ from you means a lot to us! 
 
 <p align="center"><a href="https://www.github.com/MysteryBots/AnonBot"><img src="https://telegra.ph/file/1f46b268ce67b6300bb92.jpg" width="5000"></a></p>
@@ -40,7 +40,7 @@ Telegram bot to remove the forwarded tag from messages.
 
 ## Usage
 
-### Deploy to Heroku
+#### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryBots/AnonBot)
 
 1) Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`. Alternatively fill `OWNER_ID` and `OWNER_NAME`. 
