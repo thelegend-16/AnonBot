@@ -14,17 +14,11 @@
 <details open="open">
   <summary> Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#usage">Usage</a>
-      <ul>
         <li><a href="#deploy-to-heroku">Deploy To Heroku</a></li>
-        <li><a href="#local-deploying">Local Deploying</a></li>
       </ul>
   </ol>
 </details>
 
-
-## Usage
 
 #### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thelegend-16/AnonBot)
