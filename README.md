@@ -41,7 +41,7 @@ Telegram bot to remove the forwarded tag from messages.
 ## Usage
 
 #### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MysteryBots/AnonBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/thelegend-16/AnonBot)
 
 1) Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN`. Alternatively fill `OWNER_ID` and `OWNER_NAME`. 
 Note : Fill both or leave both unless bot won't work.
