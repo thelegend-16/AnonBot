@@ -7,7 +7,7 @@
 
 
 
-Telegram bot to remove the forwarded tag from messages.
+[Telegram bot to remove the forwarded tag from messages](https://t.me/AnonMysteryBot)
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
