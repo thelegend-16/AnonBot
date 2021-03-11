@@ -3,7 +3,7 @@
 ### Anonymous Sender Bot
 > A star ⭐ from you means a lot to us! 
 
-<p align="center"><a href="https://www.github.com/MysteryBots/AnonBot"><img src=["https://telegra.ph/file/1f46b268ce67b6300bb92.jpg"](https://t.me/AnonMysteryBot) width="5000"></a></p>
+<p align="center"><a href="https://www.github.com/MysteryBots/AnonBot"><img src=[https://telegra.ph/file/1f46b268ce67b6300bb92.jpg](https://t.me/AnonMysteryBot) width="5000"></a></p>
 
 
 
