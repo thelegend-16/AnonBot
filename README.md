@@ -20,21 +20,6 @@
         <li><a href="#deploy-to-heroku">Deploy To Heroku</a></li>
         <li><a href="#local-deploying">Local Deploying</a></li>
       </ul>
-    </li>
-    <li>
-      <a href="#environment-variables">Environment Variables</a>
-      <ul>
-        <li><a href="#mandatory-vars">Mandatory Vars</a></li>
-        <li><a href="#optional-vars">Optional Vars</a></li>
-      </ul>
-    </li>
-    <li><a href="#functions">Functions</a></li>
-    <li><a href="#to-do">To-Do</a></li>
-    <li><a href="#stats">Stats</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#credits">Credits</a></li>
-    <li><a href="#support">Support</a></li>
   </ol>
 </details>
 
